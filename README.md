@@ -16,8 +16,11 @@ Project is created with:
 * Python 3.8.1 on Spyder 4.1.5 
 	
 ## Setup
-To run this project, install it locally and the test file locally
+To run this project, install it and the test file locally
 
 ## File breakdown
 
 ## Key Learnings
+* What an XML file is and how they are structured
+* What a CSV file is and how they are structured
+* How to begin to use GitHub
