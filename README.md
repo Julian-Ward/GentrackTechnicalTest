@@ -16,11 +16,12 @@ Project is created with:
 * Python 3.8.1 on Spyder 4.1.5 
 	
 ## Setup
-To run this project, install it and the test file locally
+To run this project, install it and the test file locally.
 
 ## File breakdown
+* [GentrackTest_asFunctions.py](https://github.com/Julian-Ward/GentrackTechnicalTest/blob/main/GentrackTest_asFunctions.py)
 
 ## Key Learnings
-* What an XML file is and how they are structured
-* What a CSV file is and how they are structured
-* How to begin to use GitHub
+* What an XML file is and how they are structured.
+* What a CSV file is and how they are structured.
+* How to begin to use GitHub.
